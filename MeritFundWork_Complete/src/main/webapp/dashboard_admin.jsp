@@ -1,0 +1,1 @@
+<html><body><h2>Admin Dashboard</h2><p>Manage scholarships and view applications</p></body></html>

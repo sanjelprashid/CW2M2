@@ -1,0 +1,1 @@
+<html><body><h2>User Dashboard</h2><p>Welcome, user!</p></body></html>
